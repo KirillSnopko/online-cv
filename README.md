@@ -39,18 +39,18 @@ So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn a
 
 
 ## Education
-### Higher education
->2014-2019
->> Belarusian State University of Transport
+> ### Higher education
+>>2014-2019
+>>> Belarusian State University of Transport
 
-### Epam Trainings
->2021
->> * Introduction to java
->> * JAVA WEB DEVELOPMENT
+> ### Epam Trainings
+>> 2021
+>>> * Introduction to java
+>>> * JAVA WEB DEVELOPMENT
 
->2021-2022
->> * Personal Mentoring
+>>2021-2022
+>>> * Personal Mentoring
 
->2023
->> * .NET Development 2021Q4/BY/1
+>>2023
+>>> * .NET Development 2021Q4/BY/1
 
