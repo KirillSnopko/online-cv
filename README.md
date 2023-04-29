@@ -24,10 +24,29 @@ So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn a
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Work Experience
 
-| Cat Breeds | Temperament |
-| --- | --- |
-| Maine Coon | Gentle giant |
-| Siamese | Chatty Cathy |
-| Panther | Less gentle giant |
+  ### Soft 
+![](https://img.shields.io/badge/english-B1-green)
+
+## Relevant Work Experience
+### Backend Developer
+#### Freelance 01.2022 - till now
+### Backend Developer
+#### OJSC «BSW - management company of «BMC» holding» 05.2022 - till now
+
+## Education
+### Higher education
+>2014-2019
+>> Belarusian State University of Transport
+
+### Epam Trainings
+>2021
+>> * Introduction to java
+>> * JAVA WEB DEVELOPMENT
+
+>2021-2022
+>> * Personal Mentoring
+
+>2023
+>> * .NET Development 2021Q4/BY/1
+
