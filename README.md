@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/mail-kirillsnopko@gmail.com-green)
+![](https://img.shields.io/badge/mail-kirillsnopko@gmail.com-red)
 ![](https://img.shields.io/badge/telegram-https://t.me/be_anywhere-blue)
 # Kirill Snopko
 I have always wanted to be a engineer the person who develop and create something new. So I graduated from university as power engineer and then I started to find myself. I yearned to learn more, yearned to learn something different. And it's happened, when I started to learn programming, it was java. Since then, I can't get enough. I come across with new tools, tasks and new way of their solutions. I enjoy it. I love apply my knowledge and get the result. 
