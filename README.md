@@ -24,15 +24,16 @@ So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn a
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
   ### Soft 
 ![](https://img.shields.io/badge/english-B1-green)
+![](https://img.shields.io/badge/problem%20solving-green)
 
 ## Relevant Work Experience
-### Backend Developer
-#### Freelance 01.2022 - till now
-### Backend Developer
-#### OJSC «BSW - management company of «BMC» holding» 05.2022 - till now
+> ### Backend Developer
+>> *  _01.2022 - till now_  **Freelance**
+>> * _05.2022 - till now_  **OJSC «BSW - management company of «BMC» holding»**
+
+
 
 ## Education
 ### Higher education
