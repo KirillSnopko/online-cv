@@ -27,6 +27,9 @@ So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn a
   ### Soft 
 ![](https://img.shields.io/badge/english-B1-green)
 ![](https://img.shields.io/badge/problem%20solving-green)
+![](https://img.shields.io/badge/Adaptability-green)
+![](https://img.shields.io/badge/Motivation-green)
+![](https://img.shields.io/badge/Dependability-green)
 
 ## Relevant Work Experience
 > ### Backend Developer
