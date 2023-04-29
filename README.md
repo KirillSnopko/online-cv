@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/location-Belarus-green)
 ![](https://img.shields.io/badge/mail-kirillsnopko@gmail.com-red)
 ![](https://img.shields.io/badge/telegram-https://t.me/be_anywhere-blue)
 # Kirill Snopko
