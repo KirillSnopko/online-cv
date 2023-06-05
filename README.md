@@ -51,6 +51,7 @@ So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn a
 
 >>2021-2022
 >>> * Personal Mentoring
+>>> * Version Control with Git [`learn.epam.com`]
 
 >>2023
 >>> * .NET Development 2021Q4/BY/1
