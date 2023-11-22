@@ -4,7 +4,7 @@
 # Kirill Snopko
 I have always wanted to be a engineer the person who develop and create something new. So I graduated from university as power engineer and then I started to find myself. I yearned to learn more, yearned to learn something different. And it's happened, when I started to learn programming, it was java. Since then, I can't get enough. I come across with new tools, tasks and new way of their solutions. I enjoy it. I love apply my knowledge and get the result. 
 My specialty is bakend development, include quickly learning new skills and programming languages, problem solving, achievement of the envisaged targets.
-So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn asp.net framework and Spring framework, .ner core and Spirng boot. Also I worked with Jenkins, Docker container, MySQL, Oracle, MSSqlserver. I'm enthusiastically learning any other programming languages, frameworks, or tools.
+So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn **Asp.net framework** and **Spring framework**, **.Net Core** and **SpringBoot**. Also I worked with Jenkins, Docker, MySQL, Oracle, MSSqlserver, PostgreSQL. I'm enthusiastically learning any other programming languages, frameworks, or tools.
 ## Skills
 ### Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,7 +35,7 @@ So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn a
 
 ## Relevant Work Experience
 > ### Backend Developer
->> *  _01.2022 - till now_  **Freelance**
+>> *  _08.2023 - till now_  [**Engerius**](https://engerius.com/)
 >> * _05.2022 - till now_  **OJSC «BSW - management company of «BMC» holding»**
 
 
