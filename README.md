@@ -42,8 +42,9 @@ So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn *
 
 ## Education
 > ### Higher education
->>2014-2019
->>> Belarusian State University of Transport
+>> Belarusian State University of Transport `2014-2019`
+
+>> Francisk Skorina Gomel State University `2024-till now`
 
 > ### Epam Trainings
 >> 2021
