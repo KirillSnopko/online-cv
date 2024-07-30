@@ -35,6 +35,7 @@ So far I have Java, C#, SQL, HTML, CSS, Git under my belt. I've experince witn *
 
 ## Relevant Work Experience
 > ### Backend Developer
+>> *  _05.2024 - 07.2024_   [**XLDB**](https://r7-consult.ru/)
 >> *  _08.2023 - till now_  [**Engerius**](https://engerius.com/)
 >> * _05.2022 - till now_  **OJSC «BSW - management company of «BMC» holding»**
 
