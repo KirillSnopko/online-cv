@@ -58,3 +58,5 @@ Results-driven .NET Developer with 3 years of experience in designing, developin
 >>2023
 >>> * .NET Development 2021Q4/BY/1
 
+>>2025
+>>> * Software Development Methodologies [`learn.epam.com`]
